@@ -15,7 +15,7 @@
 
   
 ### Code Review
-[Video](https://www.youtube.com/embed/5vAhP43ngRY)
+video: https://www.youtube.com/embed/5vAhP43ngRY 
 
 
 ### Software Engineering/Design
