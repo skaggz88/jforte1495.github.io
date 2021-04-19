@@ -1,6 +1,6 @@
-## Jeffrey Forte
+## Jeffrey Forte                     <script src="https://www.hackthebox.eu/badge/293174"></script>
 ### B.S. Computer Science
-<script src="https://www.hackthebox.eu/badge/293174"></script>
+
 
 ## Professional Assessment
 This project was incredibly insightful and helped show me new avenues on web-development and creating content that is visible on the internet. I utilized github pages over Heroku which is what I am more normally used to. This didn’t come without challenges, as there seems to be problems with my database connection. This could be for one of a few reasons. One in particular is that github pages is good for hosting content without a backend. My application does have a backend server which makes Heroku a better hosting site because it will host the server as well.
