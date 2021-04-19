@@ -55,34 +55,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;To implement the connection, I had to add a “db.js” module into the back end. The code as well as the output tests this database connection and throws an error if the connection is not made. To further test the connection, a sample query was made. This is demonstrative and will be removed from the final product. 
 
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jforte1495/jforte1495.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Contact
 jforte142@gmail.com
 
