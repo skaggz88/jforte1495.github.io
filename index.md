@@ -14,6 +14,34 @@
 ### Code Review
 ![Video](src)
 
+
+### Software Engineering/Design
+The project that I have chosen is a simple “to-do” list. This is a common starting project for programmers. It is an especially common web development program. I have been dabbling in web development for a while now. I have made a couple of websites, but I want to make a web-based platform. This project was created a few months ago with the intentions of becoming a Remote Work Platform (RWP). 
+I chose this piece for my work because it demonstrates a transformation of a simple programming task into a full-blown software project. This project will be worked on even after this project is over. This course will only cover a few specific enhancements that are crucial to the development of this platform. This includes configuring a server, database storage, and applying coding best practices to the platform.
+For the first assignment, I had to restructure the entire project. I had to add a frontend and backend folder. I had to configure a web-server in the backend. This will eventually include database connectivity. The frontend runs on port 3000 while the server runs on port 5000. Most of the styling was preserved, however, the SASS functionality was lost. This will have to be reconfigured but this out of the scope of this course. 
+This part of the project was pretty straight forward and easy. There was some frustration with figuring out what should go in what specific modules. It is also hard to build this platform without the database functionality. The program saves to “local storage” which doesn’t exist 
+
+
+when it is active on the web. This means that all of the functions will have to be modified to properly query an SQL Database. While this created some frustrations, it is to be expected. I also ran into troubles with github. I misconfigured my repository and I ended up creating merge conflicts so now I have recreate the repository. 
+
+
+
+
+### Data Structures and Algorithms
+
+        This was by far the toughest part of the project for me. I have never worked with MySQL in a Node application before. It was pretty tough. I originally created my application the same way I have made others with MongoDB. The SQL queries, however, run differently and have a different syntax. This involved having to almost completely overhaul my application. This is okay, however as the application now functions properly. It connects to a database as it is supposed to. The only thing that I seemed to have lost in this is the front end and graphics. This should be pretty easy to fix 
+	I have gained invaluable experience in working with SQL and NodeJS. These are both very powerful tools that are widely used in the world of web development. One thing that I could look into more is to further secure my application to prevent code/SQL injections from happening. The actual database connection was not as big of a problem as was actually creating the queries. Now that I have overcome this obstacle, I can move forward with other things such as unit testing each individual function as well. Unit testing is an imperative part of professional code. 
+
+
+
+### Databases
+        The project that I have chosen is a simple “to-do” list. This is a common starting project for programmers. It is an especially common web development program. I have been dabbling in web development for a while now. I have made a couple of websites, but I want to make a web-based platform. This project was created a few months ago with the intentions of becoming a Remote Work Platform (RWP). 
+         I chose this piece for my work because it demonstrates a transformation of a simple programming task into a full-blown software project. This project will be worked on even after this project is over. This course will only cover a few specific enhancements that are crucial to the development of this platform. This includes configuring a server, database storage, and applying coding best practices to the platform.
+        This part of the assignment involved implementing a database connection. This is the big leap from the current state of this application as the original application saved all information to local storage. This is fine and good for a desktop application, but this will not work for a web application. I chose to use MySQL as the database of choice. This database is hosted on the google cloud platform and utilizes the database “wrk_rm_tables”. This is where the information for all of the actual “to-do’s” will be stored.
+        To implement the connection, I had to add a “db.js” module into the back end. The code as well as the output tests this database connection and throws an error if the connection is not made. To further test the connection, a sample query was made. This is demonstrative and will be removed from the final product. 
+
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
